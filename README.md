@@ -1,5 +1,4 @@
-# Dynamic Graph CNN for Learning on Point Clouds (TensorFlow)
-
+# Dynamic Graph CNN for Learning on Point Clouds 
 ## Point Cloud Classification
 * Run the training script:
 
